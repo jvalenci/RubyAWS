@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+
+    <head>
+      <title>Sentence Creator</title>
+      <meta charset="utf-8">
+    </head>
+
+    <body>
+
+      <header>
+        <h1>Generating a Random sentence.</h1>
+      </header>
+
+      <p>Select a file from the drop down menu.</p>
+
+      <form action="/grammar" method="POST">
+        <select name="grammars">
+          <% Dir.glob("grammars/*.g").each do |grammar| %>
+              <option value="<%= grammar.gsub(/grammars\//,'') %>"><%= grammar.gsub(/grammars\//,'') %></option>
+          <% end %>
+        </select>
+        <input type="submit" value="Submit" />
+      </form>
+
+    <section>
+      <%= yield %>
+    </section>
+
+    </body>
+
+</html>
