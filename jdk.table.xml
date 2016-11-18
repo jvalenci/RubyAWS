@@ -1,0 +1,39 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="ruby-2.2.5-p319" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.5p319 ( revision 54774) p319" />
+      <homePath value="C:/Ruby22/bin/ruby.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Ruby22/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://C:/Ruby22/lib/ruby/site_ruby/2.2.0/i386-msvcrt" />
+            <root type="simple" url="file://C:/Ruby22/lib/ruby/site_ruby" />
+            <root type="simple" url="file://C:/Ruby22/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://C:/Ruby22/lib/ruby/vendor_ruby/2.2.0/i386-msvcrt" />
+            <root type="simple" url="file://C:/Ruby22/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://C:/Ruby22/lib/ruby/2.2.0" />
+            <root type="simple" url="file://C:/Ruby22/lib/ruby/2.2.0/i386-mingw32" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Ruby22/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://C:/Ruby22/lib/ruby/site_ruby/2.2.0/i386-msvcrt" />
+            <root type="simple" url="file://C:/Ruby22/lib/ruby/site_ruby" />
+            <root type="simple" url="file://C:/Ruby22/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://C:/Ruby22/lib/ruby/vendor_ruby/2.2.0/i386-msvcrt" />
+            <root type="simple" url="file://C:/Ruby22/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://C:/Ruby22/lib/ruby/2.2.0" />
+            <root type="simple" url="file://C:/Ruby22/lib/ruby/2.2.0/i386-mingw32" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.5p319 ( revision 54774) p319" PLATFORM="i386-mingw32" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="C:\Ruby22\bin" />
+    </jdk>
+  </component>
+</application>
