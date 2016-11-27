@@ -22,6 +22,16 @@
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/backports-3.6.8/set_version" />
       </SOURCES>
     </library>
+    <library name="backports (v3.6.8, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/backports-3.6.8/lib" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/backports-3.6.8/set_version" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/backports-3.6.8/lib" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/backports-3.6.8/set_version" />
+      </SOURCES>
+    </library>
     <library name="data_objects (v0.10.17, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/data_objects-0.10.17/lib" />
@@ -246,6 +256,14 @@
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/multi_json-1.12.1/lib" />
       </SOURCES>
     </library>
+    <library name="multi_json (v1.12.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
+      </SOURCES>
+    </library>
     <library name="net-telnet (v0.1.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
@@ -334,6 +352,14 @@
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/rack-test-0.6.3/lib" />
       </SOURCES>
     </library>
+    <library name="rack-test (v0.6.3, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rack-test-0.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rack-test-0.6.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rake (v10.4.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rake-10.4.2/bin" />
@@ -386,6 +412,14 @@
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/sinatra-contrib-1.4.7/lib" />
       </SOURCES>
     </library>
+    <library name="sinatra-contrib (v1.4.7, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sinatra-contrib-1.4.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sinatra-contrib-1.4.7/lib" />
+      </SOURCES>
+    </library>
     <library name="slim (v3.0.7, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/slim-3.0.7/bin" />
@@ -396,6 +430,18 @@
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/slim-3.0.7/bin" />
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/slim-3.0.7/lib" />
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/slim-3.0.7/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="slim (v3.0.7, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/slim-3.0.7/bin" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/slim-3.0.7/lib" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/slim-3.0.7/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/slim-3.0.7/bin" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/slim-3.0.7/lib" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/slim-3.0.7/benchmarks" />
       </SOURCES>
     </library>
     <library name="sqlite3 (v1.3.12, ruby-2.2.5-p319) [gem]">
@@ -420,6 +466,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/temple-0.7.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="temple (v0.7.7, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/temple-0.7.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/temple-0.7.7/lib" />
       </SOURCES>
     </library>
     <library name="test-unit (v3.0.8, ruby-2.2.5-p319) [gem]">
