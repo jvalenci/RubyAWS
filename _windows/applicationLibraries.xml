@@ -44,6 +44,16 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/backports-3.6.8/set_version" />
       </SOURCES>
     </library>
+    <library name="bcrypt (v3.1.11, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.11-x86-mingw32/ext" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.11-x86-mingw32/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.11-x86-mingw32/ext" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.11-x86-mingw32/lib" />
+      </SOURCES>
+    </library>
     <library name="bcrypt (v3.1.11, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/ext" />
@@ -54,12 +64,28 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x64-mingw32/lib" />
       </SOURCES>
     </library>
+    <library name="bcrypt-ruby (v3.1.5, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/bcrypt-ruby-3.1.5-x86-mingw32/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/bcrypt-ruby-3.1.5-x86-mingw32/lib" />
+      </SOURCES>
+    </library>
     <library name="bcrypt-ruby (v3.1.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-ruby-3.1.5-x64-mingw32/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bcrypt-ruby-3.1.5-x64-mingw32/lib" />
+      </SOURCES>
+    </library>
+    <library name="data_mapper (v1.2.0, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/data_mapper-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/data_mapper-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="data_mapper (v1.2.0, ruby-2.3.1-p112) [gem]">
@@ -102,6 +128,16 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/evaluation" />
       </SOURCES>
     </library>
+    <library name="dm-aggregates (v1.2.0, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-aggregates-1.2.0/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-aggregates-1.2.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-aggregates-1.2.0/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-aggregates-1.2.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="dm-aggregates (v1.2.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dm-aggregates-1.2.0/lib" />
@@ -110,6 +146,16 @@
       <SOURCES>
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dm-aggregates-1.2.0/lib" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dm-aggregates-1.2.0/tasks" />
+      </SOURCES>
+    </library>
+    <library name="dm-constraints (v1.2.0, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-constraints-1.2.0/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-constraints-1.2.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-constraints-1.2.0/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-constraints-1.2.0/tasks" />
       </SOURCES>
     </library>
     <library name="dm-constraints (v1.2.0, ruby-2.3.1-p112) [gem]">
@@ -166,6 +212,18 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dm-do-adapter-1.2.0/tasks" />
       </SOURCES>
     </library>
+    <library name="dm-migrations (v1.2.0, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-migrations-1.2.0/db" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-migrations-1.2.0/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-migrations-1.2.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-migrations-1.2.0/db" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-migrations-1.2.0/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-migrations-1.2.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="dm-migrations (v1.2.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dm-migrations-1.2.0/db" />
@@ -176,6 +234,18 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dm-migrations-1.2.0/db" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dm-migrations-1.2.0/lib" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dm-migrations-1.2.0/tasks" />
+      </SOURCES>
+    </library>
+    <library name="dm-serializer (v1.2.2, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-serializer-1.2.2/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-serializer-1.2.2/tasks" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-serializer-1.2.2/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-serializer-1.2.2/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-serializer-1.2.2/tasks" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-serializer-1.2.2/benchmarks" />
       </SOURCES>
     </library>
     <library name="dm-serializer (v1.2.2, ruby-2.3.1-p112) [gem]">
@@ -200,6 +270,16 @@
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-sqlite-adapter-1.2.0/tasks" />
       </SOURCES>
     </library>
+    <library name="dm-timestamps (v1.2.0, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-timestamps-1.2.0/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-timestamps-1.2.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-timestamps-1.2.0/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-timestamps-1.2.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="dm-timestamps (v1.2.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dm-timestamps-1.2.0/lib" />
@@ -208,6 +288,16 @@
       <SOURCES>
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dm-timestamps-1.2.0/lib" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dm-timestamps-1.2.0/tasks" />
+      </SOURCES>
+    </library>
+    <library name="dm-transactions (v1.2.0, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-transactions-1.2.0/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-transactions-1.2.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-transactions-1.2.0/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-transactions-1.2.0/tasks" />
       </SOURCES>
     </library>
     <library name="dm-transactions (v1.2.0, ruby-2.3.1-p112) [gem]">
@@ -220,6 +310,16 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dm-transactions-1.2.0/tasks" />
       </SOURCES>
     </library>
+    <library name="dm-types (v1.2.2, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-types-1.2.2/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-types-1.2.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-types-1.2.2/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-types-1.2.2/tasks" />
+      </SOURCES>
+    </library>
     <library name="dm-types (v1.2.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dm-types-1.2.2/lib" />
@@ -228,6 +328,16 @@
       <SOURCES>
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dm-types-1.2.2/lib" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/dm-types-1.2.2/tasks" />
+      </SOURCES>
+    </library>
+    <library name="dm-validations (v1.2.0, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-validations-1.2.0/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-validations-1.2.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-validations-1.2.0/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/dm-validations-1.2.0/tasks" />
       </SOURCES>
     </library>
     <library name="dm-validations (v1.2.0, ruby-2.3.1-p112) [gem]">
@@ -250,6 +360,14 @@
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/do_sqlite3-0.10.17-x86-mingw32/ext" />
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/do_sqlite3-0.10.17-x86-mingw32/lib" />
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/do_sqlite3-0.10.17-x86-mingw32/tasks" />
+      </SOURCES>
+    </library>
+    <library name="fastercsv (v1.5.5, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/fastercsv-1.5.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/fastercsv-1.5.5/lib" />
       </SOURCES>
     </library>
     <library name="fastercsv (v1.5.5, ruby-2.3.1-p112) [gem]">
@@ -392,6 +510,26 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/2.3.0/bigdecimal" />
         <root url="file://C:/Ruby23-x64/lib/ruby/2.3.0/x64-mingw32" />
         <root url="file://C:/Ruby23-x64/lib/ruby/2.3.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="json_pure (v1.8.3, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json_pure-1.8.3/ext" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json_pure-1.8.3/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json_pure-1.8.3/data" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json_pure-1.8.3/java" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json_pure-1.8.3/tests" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json_pure-1.8.3/tools" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json_pure-1.8.3/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json_pure-1.8.3/ext" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json_pure-1.8.3/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json_pure-1.8.3/data" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json_pure-1.8.3/java" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json_pure-1.8.3/tests" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json_pure-1.8.3/tools" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json_pure-1.8.3/diagrams" />
       </SOURCES>
     </library>
     <library name="json_pure (v1.8.3, ruby-2.3.1-p112) [gem]">
@@ -682,6 +820,14 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.12-x64-mingw32/tasks" />
       </SOURCES>
     </library>
+    <library name="stringex (v1.5.1, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/stringex-1.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/stringex-1.5.1/lib" />
+      </SOURCES>
+    </library>
     <library name="stringex (v1.5.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/stringex-1.5.1/lib" />
@@ -748,6 +894,18 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/tilt-2.0.5/bin" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/tilt-2.0.5/lib" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/tilt-2.0.5/man" />
+      </SOURCES>
+    </library>
+    <library name="uuidtools (v2.1.5, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/uuidtools-2.1.5/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/uuidtools-2.1.5/tasks" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/uuidtools-2.1.5/website" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/uuidtools-2.1.5/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/uuidtools-2.1.5/tasks" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/uuidtools-2.1.5/website" />
       </SOURCES>
     </library>
     <library name="uuidtools (v2.1.5, ruby-2.3.1-p112) [gem]">
