@@ -702,6 +702,16 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/rake-10.4.2/rakelib" />
       </SOURCES>
     </library>
+    <library name="rubyzip (v1.2.0, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/rubyzip-1.2.0/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/rubyzip-1.2.0/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/rubyzip-1.2.0/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/rubyzip-1.2.0/samples" />
+      </SOURCES>
+    </library>
     <library name="sass (v3.4.22, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/sass-3.4.22/bin" />
