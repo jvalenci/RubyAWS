@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="downloadVoteReport.rb" type="PLAIN_TEXT" />
       <mapping pattern="PeerRateApp_Main" type="Ruby" />
     </extensionMap>
   </component>
