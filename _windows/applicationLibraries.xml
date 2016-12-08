@@ -538,6 +538,7 @@
     </library>
     <library name="json_pure (v1.8.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json_pure/1.8.3" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json_pure-1.8.3/ext" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json_pure-1.8.3/lib" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json_pure-1.8.3/data" />
@@ -547,6 +548,7 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json_pure-1.8.3/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json_pure/1.8.3" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json_pure-1.8.3/ext" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json_pure-1.8.3/lib" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/json_pure-1.8.3/data" />
