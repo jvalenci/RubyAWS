@@ -514,6 +514,28 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/2.3.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="json (v2.0.2, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json-2.0.2/ext" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json-2.0.2/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json-2.0.2/data" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json-2.0.2/java" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json-2.0.2/tests" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json-2.0.2/tools" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json-2.0.2/diagrams" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json-2.0.2/references" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json-2.0.2/ext" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json-2.0.2/lib" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json-2.0.2/data" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json-2.0.2/java" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json-2.0.2/tests" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json-2.0.2/tools" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json-2.0.2/diagrams" />
+        <root url="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/json-2.0.2/references" />
+      </SOURCES>
+    </library>
     <library name="json_pure (v1.8.3, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json_pure/1.8.3" />
